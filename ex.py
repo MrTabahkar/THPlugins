@@ -119,4 +119,4 @@ async def exchange(event):
                 if price:
                     text += f"{name} : `{int(price * usd)}`\n"
 
-    await msg.edit(text)
+    await msg.edit(text)git
